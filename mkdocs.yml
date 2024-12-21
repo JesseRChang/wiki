@@ -1,0 +1,9 @@
+site_name: My Docs
+theme:
+  name: material
+  palette:
+    primary: deep_orange
+    accent: amber
+  font:
+    text: Roboto
+    code: Roboto Mono
